@@ -40,7 +40,10 @@ function ResumeNew() {
             <Page pageNumber={3} scale={width > 786 ? 1.7 : 0.6} />
             <br></br>
             <Page pageNumber={4 } scale={width > 786 ? 1.7 : 0.6} />
-            
+            <br></br>
+            <Page pageNumber={5 } scale={width > 786 ? 1.7 : 0.6} />
+            <br></br>
+            <Page pageNumber={6 } scale={width > 786 ? 1.7 : 0.6} />
           </Document>
         </Row>
 
